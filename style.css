@@ -1,0 +1,36 @@
+.titulo {
+    background-color: black;
+    color: white;
+    height: 100px;
+    width: 100%;
+
+}
+
+.head {
+    
+}
+.logo{
+    width: 100px;
+    height: 100px;
+    
+    
+}
+
+.body {
+    background-color: rgb(243, 235, 125);
+}
+
+.main {}
+
+.intro {
+    background-color: #5F5B6B;
+    text-align: center;
+    width: 100%;
+    text-decoration: solid;
+
+}
+
+.tabla {
+    margin: 100px;
+
+}
