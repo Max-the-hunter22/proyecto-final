@@ -6,14 +6,13 @@
 
 }
 
-.head {
-    
-}
-.logo{
+.head {}
+
+.logo {
     width: 100px;
     height: 100px;
-    
-    
+
+
 }
 
 .body {
@@ -22,10 +21,15 @@
 
 .main {}
 
+.a {
+    width: 100px;
+    height: 100px;
+}
+
 .intro {
     background-color: #5F5B6B;
     text-align: center;
-    width: 100%;
+
     text-decoration: solid;
 
 }
@@ -33,4 +37,11 @@
 .tabla {
     margin: 100px;
 
+}
+
+.foot {
+    background-color: black;
+    color: yellow;
+    align-content: flex-end;
+    text-align: center;
 }
