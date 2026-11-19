@@ -6,12 +6,13 @@
 
 }
 
-.head {}
+
 
 .logo {
-    width: 100px;
-    height: 100px;
-
+    width: 10%;
+    height: 10%;
+    display: flex;
+    align-items: center;
 
 }
 
@@ -19,13 +20,21 @@
     background-color: rgb(243, 235, 125);
 }
 
-.main {}
 
-.a {
-    width: 100px;
-    height: 100px;
+
+.cosas {
+    width: 10%;
+    align-content: center;
+
 }
+.arte{
+     display: flex;
+     flex-direction: column-reverse;
+     align-items: center;
+     justify-content: center;
 
+}
+           
 .intro {
     background-color: #5F5B6B;
     text-align: center;
